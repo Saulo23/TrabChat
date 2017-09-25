@@ -1,0 +1,24 @@
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\Server\bin\Debug\Server.exe.config
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\Server\bin\Debug\Server.exe
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\Server\bin\Debug\Server.pdb
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\Server\obj\Debug\Server.exe
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\Server\obj\Debug\Server.pdb
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\Server\bin\Debug\ServerData.dll
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\Server\bin\Debug\ServerData.pdb
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\ChatApp\Server\bin\Debug\Server.exe.config
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\ChatApp\Server\obj\Debug\Server.exe
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\ChatApp\Server\obj\Debug\Server.pdb
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\ChatApp\Server\bin\Debug\Server.exe
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\ChatApp\Server\bin\Debug\Server.pdb
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\ChatApp\Server\bin\Debug\ServerData.dll
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\ChatApp\Server\bin\Debug\ServerData.pdb
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\ChatApp\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\TrabRedesII\Server\bin\Debug\Server.exe.config
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\TrabRedesII\Server\obj\Debug\Server.exe
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\TrabRedesII\Server\obj\Debug\Server.pdb
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\TrabRedesII\Server\bin\Debug\Server.exe
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\TrabRedesII\Server\bin\Debug\Server.pdb
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\TrabRedesII\Server\bin\Debug\ServerData.dll
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\TrabRedesII\Server\bin\Debug\ServerData.pdb
+C:\Users\SAULO\Desktop\TrabRedes II FOR REAL\TrabRedesII\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache

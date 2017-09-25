@@ -1,0 +1,6 @@
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+C:\Users\Giannis\Google Drive\Proframming\Projects\Games\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
